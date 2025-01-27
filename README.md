@@ -33,7 +33,7 @@ This repository contains my solution for the **eCommerce Transactions Data Scien
 
 ## Project Structure  
 
-ecommerce-ds-assignment/  
+E_commerce-ds-assignment/  
 ├── data/  
 │   ├── Customers.csv  
 │   ├── Products.csv  
