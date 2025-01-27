@@ -1,4 +1,4 @@
-# eCommerce Data Science Assignment  
+# E-Commerce Data Science Assignment  
 
 This repository contains my solution for the **eCommerce Transactions Data Science Assignment**, involving tasks such as Exploratory Data Analysis (EDA), building a Lookalike Model, and performing Customer Segmentation using clustering techniques.  
 
@@ -46,7 +46,6 @@ ecommerce-ds-assignment/
 │   ├── FirstName_LastName_EDA.pdf  
 │   ├── FirstName_LastName_Lookalike.csv  
 │   └── FirstName_LastName_Clustering.pdf  
-├── requirements.txt  
 └── README.md  
 
 
